@@ -1,8 +1,8 @@
 Mercator Test
 
-Open browser window
-Access link
-Enter username 
-Enter password 
-Click to login 
-Add highest priced item to cart 
+1. Open browser window
+2. Access link
+3. Enter username
+4. Enter password
+5. Click to login
+6. Add highest priced item to cart 
